@@ -1,1 +1,8 @@
 .venv
+*.mat
+*.gif
+*.jpg
+*.jpeg
+ssh_setup
+.github
+
