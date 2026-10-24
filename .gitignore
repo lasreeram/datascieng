@@ -1,8 +1,13 @@
 .venv
 *.mat
 *.gif
-*.jpg
-*.jpeg
+#*.jpg
+#*.jpeg
+aardra*
+bhagyam*
+lakshmi*
+sreeram*
+vrinda*
 ssh_setup
 .github
 
